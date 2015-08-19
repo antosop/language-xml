@@ -59,7 +59,7 @@
     'name': 'meta.tag.preprocessor.xml'
     'patterns': [
       {
-        'match': ' ([a-zA-Z-]+)'
+        'match': ' ([a-zA-Z-.]+)'
         'name': 'entity.other.attribute-name.xml'
       }
       {
